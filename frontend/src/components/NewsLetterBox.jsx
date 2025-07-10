@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 const NewsLetterBox = () => {
   const onSubmitHandler=(e)=>{
     e.preventDefault();
